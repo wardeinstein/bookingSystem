@@ -6,7 +6,7 @@
 
 - This project is not fully runnable yet.
 
-# Expected features of the booking system
+## Expected features of the booking system
 
 - A basic Web UI to add/edit/delete/view bookings
 
